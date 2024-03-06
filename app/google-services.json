@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514922436380",
+    "project_id": "du-packages-uae",
+    "storage_bucket": "du-packages-uae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514922436380:android:3781e3cbae723137494cd9",
+        "android_client_info": {
+          "package_name": "com.dupackages_app_uae.dubalancecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514922436380-erc96dl34ssldk7luar8ptlppcjf2e9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqOatFYGHj9BIZIT7qB62aQtGlQ0r6e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514922436380-erc96dl34ssldk7luar8ptlppcjf2e9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/loan_menu_share"
+        android:title="Share App"
+        />
+
+    <item android:id="@+id/loan_menu_Rate"
+        android:title="Rate Us"/>
+
+    <item android:id="@+id/loan_menu_More"
+        android:title="More Apps"/>
+
+    <item android:id="@+id/loan_menu_Exit"
+        android:title="Exit"/>
+
+
+</menu>
